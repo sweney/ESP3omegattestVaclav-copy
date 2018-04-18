@@ -1,0 +1,14 @@
+4/18/18 5:26 PM
+Project Statistics
+
+                 	Segments	Words	Characters (without spaces)	Characters (including spaces)	#Files	
+Total:           	     695	 8046	                      42351	                        49378	     1	
+Remaining:       	     356	 5330	                      27654	                        32468	     1	
+Unique:          	     530	 7672	                      39892	                        46786	     1	
+Unique Remaining:	     306	 5249	                      27312	                        32095	     1	
+
+
+Individual File Statistics:
+
+File Name               	Total Segments	Remaining Segments	Unique Segments	Unique Remaining Segments	Total Words	Remaining Words	Unique Words	Unique Remaining Words	Total Characters (without spaces)	Remaining Characters (without spaces)	Unique Characters (without spaces)	Unique Remaining Characters (without spaces)	Total Characters (including spaces)	Remaining Characters (including spaces)	Unique Characters (including spaces)	Unique Remaining Characters (including spaces)	
+OmegaT_for_Beginners.odt	           695	               356	            530	                      306	       8046	           5330	        7672	                  5249	                            42351	                                27654	                             39892	                                       27312	                              49378	                                  32468	                               46786	                                         32095	

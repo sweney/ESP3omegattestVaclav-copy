@@ -1,0 +1,1538 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+<tmx version="1.1">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_8_r10247" segtype="sentence" srclang="EN-US"/>
+  <body>
+<!-- Default translations -->
+    <tu>
+      <tuv lang="EN-US">
+        <seg>(&lt;f0&gt;Do not use the “Import Source Files” function during this exercise; you can experiment with it later, on your own.)&lt;/f0&gt; You can close this window.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Vasee" changedate="20180411T093732Z" creationid="Vasee" creationdate="20180411T093732Z">
+        <seg>(&lt;f0&gt;Během tohoto cvičení nepoužívejte funkci "Kopírování souborů do zdrojového adresáře". S touto funkcí můžete později experimentovat sami na vlastní pěst.)&lt;/f0&gt; Toto okna můžete zavřít.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>(For the purposes of this tutorial, you may use .docx files according to this procedure, although in fact .docx files do not require the mediation of Open Office Writer.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="ivaparakova" changedate="20180412T095028Z" creationid="Pan Václav" creationdate="20180411T122026Z">
+        <seg>(Pro naučení se s programem můžete použít soubory .docx a postupovat podle následujících kroků, i když pro soubory .docx není nutné používat Open Office Writer.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>18</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Turih" changedate="20180411T065207Z" creationid="Turih" creationdate="20180411T065207Z">
+        <seg>18</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>19</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Turih" changedate="20180411T065210Z" creationid="Turih" creationdate="20180411T065210Z">
+        <seg>19</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>2</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Martina" changedate="20180412T095053Z" creationid="Martina" creationdate="20180412T095053Z">
+        <seg>2 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>3</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Vasee" changedate="20180408T052933Z" creationid="Vasee" creationdate="20180408T052933Z">
+        <seg>3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>6.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Turih" changedate="20180411T064940Z" creationid="Turih" creationdate="20180411T064940Z">
+        <seg>6.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>6.A.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Turih" changedate="20180411T064947Z" creationid="Turih" creationdate="20180411T064947Z">
+        <seg>6.A.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>6.A.1.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Turih" changedate="20180411T065150Z" creationid="Turih" creationdate="20180411T065150Z">
+        <seg>6.A.1.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>6.A.2.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Turih" changedate="20180411T065153Z" creationid="Turih" creationdate="20180411T065153Z">
+        <seg>6.A.2.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>6.A.3.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Turih" changedate="20180411T065155Z" creationid="Turih" creationdate="20180411T065155Z">
+        <seg>6.A.3.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>6.A.4.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Turih" changedate="20180411T065158Z" creationid="Turih" creationdate="20180411T065158Z">
+        <seg>6.A.4.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>6.B.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Turih" changedate="20180411T065159Z" creationid="Turih" creationdate="20180411T065159Z">
+        <seg>6.B.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>6.B.1.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Turih" changedate="20180411T065201Z" creationid="Turih" creationdate="20180411T065201Z">
+        <seg>6.B.1.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>6.B.2.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Turih" changedate="20180411T065204Z" creationid="Turih" creationdate="20180411T065204Z">
+        <seg>6.B.2.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>6.B.3.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Turih" changedate="20180411T065208Z" creationid="Turih" creationdate="20180411T065208Z">
+        <seg>6.B.3.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>6.B.4.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Turih" changedate="20180411T065211Z" creationid="Turih" creationdate="20180411T065211Z">
+        <seg>6.B.4.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>7</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Turih" changedate="20180411T065138Z" creationid="Turih" creationdate="20180411T065138Z">
+        <seg>7</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>7.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Turih" changedate="20180411T065214Z" creationid="Turih" creationdate="20180411T065214Z">
+        <seg>7.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>8</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Turih" changedate="20180411T065152Z" creationid="Turih" creationdate="20180411T065152Z">
+        <seg>8</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>8.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Turih" changedate="20180411T065217Z" creationid="Turih" creationdate="20180411T065217Z">
+        <seg>8.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>9</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Turih" changedate="20180411T065202Z" creationid="Turih" creationdate="20180411T065202Z">
+        <seg>9</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f0&gt;Do not change any other settings, for the purposes of this tutorial.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Vasee" changedate="20180411T093429Z" creationid="Vasee" creationdate="20180411T093429Z">
+        <seg>&lt;f0&gt;Jiné nastavení pro účely tohoto tutoriálu měnit nemusíte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f0&gt;Don’t, however, make corrections in the Open Office Writer or MS Word file:&lt;/f0&gt; find the relevant segments in OmegaT (using the text search function, to be discussed below, Step &lt;f1&gt;6.B.4&lt;/f1&gt;) and make them there.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Marie" changedate="20180412T095934Z" creationid="Marie" creationdate="20180412T095934Z">
+        <seg>&lt;f0&gt;Nicméně nedělejte opravy v souboru Open Office Writer nebo MS Word:&lt;/f0&gt; najděte náležité segmenty v OmegaT (za použití funkce hledání v textu, jak je zmíněno níže, viz Krok&lt;f1&gt;6.B.4&lt;/f1&gt;) a zde je vytvořte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f0&gt;Important:&lt;/f0&gt; the purpose of this introduction to OmegaT is to acquaint you with the basic concepts of translation memory software.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Pan Václav" changedate="20180411T120656Z" creationid="Pan Václav" creationdate="20180411T120656Z">
+        <seg>&lt;f0&gt;Důležité:&lt;/f0&gt;účelem tohoto úvodu do nástroje OmegaT je seznámit vás se základními koncepty softwaru pracujícího s překladovou pamětí.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f0&gt;Note: Damaged or missing tags in XML file formats, such as OpenOffice.org, are likely to result in the output file failing to open at all.&lt;/f0&gt;</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Marie" changedate="20180412T095118Z" creationid="Marie" creationdate="20180412T094818Z">
+        <seg>&lt;f0&gt;Poznámka: Poškozené nebo chybějící tagy ve formátech XML, jako OpenOffice.org, pravděpodobně nepůjdou ve výstupním souboru vůbec otevřít.&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f1&gt;(Note that this screenshot refers to OmegaT 1.6.0 in the blue bar at the top.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="ivaparakova" changedate="20180412T095715Z" creationid="ivaparakova" creationdate="20180412T095715Z">
+        <seg>&lt;f1&gt;(Všimněte si, že tento obrázek ukazuje v modré liště nahoře OmegaT 1.6.0.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f2&gt;Please note that owing to the pace at which OmegaT is being developed, the appearance of the screenshots and possibly some other information may have changed slightly.&lt;/f2&gt;</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="bures" changedate="20180410T201232Z" creationid="bures" creationdate="20180410T200715Z">
+        <seg>Z důvodu rychlosti, kterou je OmegaT vyvíjena je možné, že se snímky obrazovky, popřípadě informace v tomto manuálu obsažené, mohou od programu samotného lišit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt;f3&gt;Please proceed to Project 2 after completing Project 1!&lt;/f3&gt;</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Vasee" changedate="20180411T095339Z" creationid="Vasee" creationdate="20180411T095339Z">
+        <seg>&lt;f3&gt;Po dokončení Projektu 1 přejděte na Projekt 2!&lt;/f3&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A copy of the license is included in the section entitled “GNU Free Documentation License.”</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="bures" changedate="20180410T195825Z" creationid="Pan Václav" creationdate="20180409T052852Z">
+        <seg>Kopie této licence se nachází v sekci "GNU Free Documentation License"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>A segment normally corresponds to one sentence.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="ivaparakova" changedate="20180412T095826Z" creationid="ivaparakova" creationdate="20180412T095826Z">
+        <seg>Jeden segment obvykle odpovídá jedné větě.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>AGGREGATION WITH INDEPENDENT WORKS</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Uživatel" changedate="20180412T094806Z" creationid="Uživatel" creationdate="20180412T094806Z">
+        <seg>AGREGÁTY S NEZÁVISLÝMI DÍLY</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>APPLICABILITY AND DEFINITIONS</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Uživatel" changedate="20180412T094649Z" creationid="Uživatel" creationdate="20180412T094649Z">
+        <seg>PLATNOST A DEFINICE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>After revising the text and making any corrections, create the translated &lt;t0/&gt;documents again and close the project.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Patrik" changedate="20180412T100040Z" creationid="Patrik" creationdate="20180412T100040Z">
+        <seg>Poté co zkontrolujete text a provedete opravy, vytvořte přeložené &lt;t0/&gt;dokumenty znovu a ukončete projekt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>After you have checked and saved ing your translation, newer versions of OmegaT will check automatically that you have not damaged any tags during the translation process, or you can do it manually yourself: Tools &gt; Validate Tags.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Patrik" changedate="20180412T095821Z" creationid="Patrik" creationdate="20180412T095821Z">
+        <seg>Poté co zkontrolujete a uložíte Váš překlad, novější verze OmegaT automaticky ověří, jestli jste během překládání nepoškodily tagy, také to můžete udělat ručně: Nástroje&gt; Ověřit tagy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>All files selected for translation in this tutorial are from Wikipedia; some projects comprise more than one file, to familiarize you with OmegaT’s usefulness for such structured documents.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Patrik" changedate="20180412T100912Z" creationid="Patrik" creationdate="20180412T100912Z">
+        <seg>Všechny soubory použité k překladům v tomto tutorialu jsou z Wikipedie; některé projekty sestávají z více než jednoho souboru,abyste si mohli vyzkoušet použitelnost OmegaT pro takto strukturované dokumenty .</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>An advantage probably common to all translation memory applications is that they simplify checking: once you have completed the first draft of your translation, you can “walk” through it with the source and target versions of each sentence displayed next to each other.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Patrik" changedate="20180412T095651Z" creationid="Patrik" creationdate="20180412T095651Z">
+        <seg>Výhodou takřka všech překladových pamětí je, že usnadňují kontrolu překladu: Po dokončení hrubého překladu si jej můžete projít s původními i přeloženými segmenty, které budou zobrazeny vedle sebe.
+</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Appendix</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Turih" changedate="20180411T073157Z" creationid="Turih" creationdate="20180411T073157Z">
+        <seg>Dodatek</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Beginners</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Vasee" changedate="20180408T052946Z" creationid="Vasee" creationdate="20180408T052946Z">
+        <seg>začátečníky</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>By default, the source text is pasted into the target text segment for you.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="ivaparakova" changedate="20180412T100104Z" creationid="ivaparakova" creationdate="20180412T100104Z">
+        <seg>Ve výchozím nastavení je zdrojový text vložen do segmentu pro cílový text za vás.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>CAT</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Vasee" changedate="20180408T052940Z" creationid="Vasee" creationdate="20180408T052940Z">
+        <seg>CAT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>COLLECTIONS OF DOCUMENTS</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Uživatel" changedate="20180412T094741Z" creationid="Uživatel" creationdate="20180412T094741Z">
+        <seg>KOLEKCE DOKUMENTŮ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>COMBINING DOCUMENTS</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Uživatel" changedate="20180412T094730Z" creationid="Uživatel" creationdate="20180412T094730Z">
+        <seg>SLUČOVÁNÍ DOKUMENTŮ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>COPYING IN QUANTITY</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Uživatel" changedate="20180412T094712Z" creationid="Uživatel" creationdate="20180412T094712Z">
+        <seg>HROMADNÉ KOPÍROVÁNÍ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Checking your translation</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Turih" changedate="20180411T070220Z" creationid="Turih" creationdate="20180411T070220Z">
+        <seg>Ověření vašeho překladu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Click and drag the newly created .odt file to the &lt;f0&gt;/source&lt;/f0&gt; folder of your &lt;f1&gt;My Project-1&lt;/f1&gt; folder, which you created in Step &lt;f2&gt;5&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="ivaparakova" changedate="20180412T095234Z" creationid="Pan Václav" creationdate="20180411T122428Z">
+        <seg>Klikněte a přetáhněte nově vytvořený .odt soubor do zdrojové složky Můj projekt-1, kterou jste vytvořili v kroku 5.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Close the dialog box.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="ivaparakova" changedate="20180412T095612Z" creationid="ivaparakova" creationdate="20180412T095612Z">
+        <seg>Zavřete dialogové okno.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Confirm the segmentation rules and then creation of the project with OK.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Vasee" changedate="20180411T093409Z" creationid="Vasee" creationdate="20180411T093409Z">
+        <seg>Pravidla segmentace a vytvoření projektu potvrdíte stisknutím OK.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Consult the User’s Manual for further information.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Pan Václav" changedate="20180411T121256Z" creationid="Pan Václav" creationdate="20180411T121256Z">
+        <seg>Více informací najdete v manuálu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Copyright</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Vasee" changedate="20180408T052956Z" creationid="Vasee" creationdate="20180408T052956Z">
+        <seg>Autorská práva</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Copyright &lt;f0&gt;©&lt;/f0&gt;&lt;f1&gt; 2014 Susan Welsh and Marc Prior &lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="bures" changedate="20180410T183311Z" creationid="Vasee" creationdate="20180408T053019Z">
+        <seg>Copyright &lt;f0&gt;©&lt;/f0&gt;&lt;f1&gt;Susan Welshová &amp; Marc Prior&lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cover illustration is from &lt;a0&gt;www.freeclipartnow.com&lt;/a0&gt;, in the public domain.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="bures" changedate="20180410T200027Z" creationid="Vasee" creationdate="20180409T052910Z">
+        <seg>Kresba na obale pochází z &lt;a0&gt;www.freeclipartnow.com&lt;/a0&gt; a je volným dílem.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Create the target documents by selecting Project &gt; Create Translated Documents.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Marie" changedate="20180412T095250Z" creationid="Marie" creationdate="20180412T095250Z">
+        <seg>Cílové dokumenty vytvoříte vybráním Projekt &gt; Vytvořit přeložené dokumenty. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Creating a project</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="bures" changedate="20180410T201143Z" creationid="bures" creationdate="20180410T201143Z">
+        <seg>Zakládání projektu</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Do not click on “Browse” or otherwise change the default locations of the project folders (directories).&lt;/f0&gt;&lt;f1&gt; &lt;/f1&gt;You have now created an empty project.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Vasee" changedate="20180411T093525Z" creationid="Vasee" creationdate="20180411T093507Z">
+        <seg>Neklikejte na "Procházet" ani jakkoli jinak neměňte výchozí umístění složek projektu (adresáře).&lt;/f0&gt;&lt;f1&gt;&lt;/f1&gt;Vytvořili jste nyní prázdný projekt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Do the same with the Language &lt;t4/&gt;Pattern field.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Vasee" changedate="20180411T092712Z" creationid="Vasee" creationdate="20180411T092605Z">
+        <seg>To stejné udělejte s polem &lt;t4/&gt;Vzor jazyka.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Double-click on the file.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="ivaparakova" changedate="20180412T095448Z" creationid="Vasee" creationdate="20180411T095411Z">
+        <seg>Dvakrát na soubor klikněte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Downloading OmegaT</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="bures" changedate="20180410T200928Z" creationid="bures" creationdate="20180410T200928Z">
+        <seg>Stáhnutí OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Downloading the supplementary materials</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Turih" changedate="20180411T072129Z" creationid="Turih" creationdate="20180411T071950Z">
+        <seg>Stažení doplňkových materiálů </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>English to Chinese</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Patrik" changedate="20180412T101315Z" creationid="Patrik" creationdate="20180412T101315Z">
+        <seg>Překlad z angličriny do čínštiny</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>English to Czech</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Patrik" changedate="20180412T101246Z" creationid="Patrik" creationdate="20180412T101246Z">
+        <seg>Překlad z angličtiny do češtiny</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>English to Dutch</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="R2D2" changedate="20180411T114021Z" creationid="R2D2" creationdate="20180411T114001Z">
+        <seg>angličtina - holandština</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>English to French</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="R2D2" changedate="20180411T114727Z" creationid="R2D2" creationdate="20180411T114727Z">
+        <seg>angličtina - francouzština</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>English to German</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="R2D2" changedate="20180411T114755Z" creationid="R2D2" creationdate="20180411T114755Z">
+        <seg>angličtina - němčina</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>English to Italian</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="R2D2" changedate="20180411T114935Z" creationid="R2D2" creationdate="20180411T114935Z">
+        <seg>angličtina - italština</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>FUTURE REVISIONS OF THIS LICENSE</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Štefan" changedate="20180412T094901Z" creationid="Štefan" creationdate="20180412T094901Z">
+        <seg>BUDOUCÍ ÚPRAVY TÉTO LICENCE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Final checking, correction, and delivery</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Marie" changedate="20180412T095637Z" creationid="Marie" creationdate="20180412T095637Z">
+        <seg>Závěrečná kontrola, oprava a dodání</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Final proofreading, correction, and delivery</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Turih" changedate="20180411T071723Z" creationid="Turih" creationdate="20180411T070731Z">
+        <seg>Závěrečná korektura, opravy a doručení</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Find your project in your file manager: it is a folder with the name of the project, containing the sub-folders &lt;f0&gt;/dictionary,/glossary,/omegat,/source&lt;/f0&gt;, &lt;f1&gt;/target&lt;/f1&gt;, &lt;f2&gt;/omegat&lt;/f2&gt;, &lt;s3/&gt;and &lt;f4&gt;/tm,&lt;/f4&gt; and &lt;f5&gt;/glossary&lt;/f5&gt;.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Vasee" changedate="20180411T093905Z" creationid="Vasee" creationdate="20180411T093905Z">
+        <seg>Najděte svůj projekt v průzkumníku souborů: je to složka se jménem projektu obsahující podsložky &lt;f0&gt;/dictionary,/glossary,/omegat,/source&lt;/f0&gt;, &lt;f1&gt;/target&lt;/f1&gt;, &lt;f2&gt;/omegat&lt;/f2&gt;, &lt;s3/&gt;and &lt;f4&gt;/tm,&lt;/f4&gt; a &lt;f5&gt;/glossary&lt;/f5&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For details of the tag handling rules, refer to the User’s Manual.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="ivaparakova" changedate="20180412T101454Z" creationid="ivaparakova" creationdate="20180412T101454Z">
+        <seg>Podrobnosti o práci se značkami naleznete v uživatelské příručce.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>For example, this text in English:</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="ivaparakova" changedate="20180412T100430Z" creationid="ivaparakova" creationdate="20180412T100430Z">
+        <seg>Například tento text v češtině:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Handling tags</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="ivaparakova" changedate="20180412T100308Z" creationid="Turih" creationdate="20180411T070206Z">
+        <seg>Práce s tagy</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Handling tags takes some practice.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="ivaparakova" changedate="20180412T100346Z" creationid="ivaparakova" creationdate="20180412T100346Z">
+        <seg>Zvládnout práci s tagy chvíli trvá. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If the client requires MS Office format, simply save the target file in OpenOffice.org in the relevant MS format (.doc, etc.)</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Marie" changedate="20180412T100209Z" creationid="Marie" creationdate="20180412T100037Z">
+        <seg>Pokud klient vyžaduje formát MS Office, jednoduše uložte cílový dokument v OpenOffice.org v náležitém formátu MS (.doc, atd.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If the language of your source text isn’t listed, pick a language that is, double-click on the Language Name field, and change it to the abbreviation for your language.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Vasee" changedate="20180411T092549Z" creationid="Vasee" creationdate="20180408T052546Z">
+        <seg>Pokud jazyk vašeho zdrojového textu není na seznamu, vyberte jazyk, který na něm je a dvakrát klikněte na pole s názvem jazyka a změňte ho na zkratku vašeho jazyka.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you prefer to check your translation on paper, print out the target document.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Marie" changedate="20180412T095731Z" creationid="Marie" creationdate="20180412T095731Z">
+        <seg>Pokud chcete raději opravit svůj překlad na papíře, vytiskněte cílový dokument.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If you use OmegaT for any length of time in the future, you will want to customize the segmentation rules.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Vasee" changedate="20180411T092846Z" creationid="Vasee" creationdate="20180411T092846Z">
+        <seg>Pokud budete OmeguT používat častěji, budete si určitě chtít upravit pravidla segmentace.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If your project consists of multiple source files, possibly in multiple sub-folders and with accompanying graphics files, etc., as is the case with the examples in our second, HTML, project, the entire structure of the files in &lt;f1&gt;/source&lt;/f1&gt; is reproduced in &lt;f2&gt;/target&lt;/f2&gt;.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Marie" changedate="20180412T095605Z" creationid="Marie" creationdate="20180412T095605Z">
+        <seg>Pokud projekt obsahuje několik zdrojových souborů, případně v několika podadresářích spolu s grafickými soubory, atd., jak tomu bylo v příkladu našeho druhého HTML projektu, celá struktura souborů v adresáři &lt;f1&gt;/source&lt;/f1&gt; se zkopíruje do adresáře &lt;f2&gt;/target&lt;/f2&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If your project contains more than one file for translation, confirming the last segment in the first file will take you to the topmost segment in the second file.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Patrik" changedate="20180412T095042Z" creationid="Patrik" creationdate="20180412T095042Z">
+        <seg>Pokud váš projekt obsahuje více než jeden soubor k přeložení, potvrzení posledního segmentu prvního souboru vás automaticky nasměruje na první segment následujícího souboru.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>In this case, &lt;a0&gt; and &lt;/a0&gt; are the opening and closing tags for bold text respectively.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="ivaparakova" changedate="20180412T101254Z" creationid="ivaparakova" creationdate="20180412T100724Z">
+        <seg>V tomto případě jsou tagy &lt;a0&gt; a &lt;/a0&gt; pro tučný text.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Installing OmegaT</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="bures" changedate="20180410T200941Z" creationid="bures" creationdate="20180410T200941Z">
+        <seg>Instalace OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Installing a spelling dictionary</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="bures" changedate="20180410T201129Z" creationid="bures" creationdate="20180410T201129Z">
+        <seg>Instalace pravopisného slovníku? TODO</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Intended readership</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="bures" changedate="20180410T200838Z" creationid="bures" creationdate="20180410T200838Z">
+        <seg>Cílová skupina pro tento manuál</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Introduction</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Sweney" changedate="20180409T073224Z" creationid="Sweney" creationdate="20180409T073224Z">
+        <seg>Úvod</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It is not worth getting bogged down with fine-tuning the segmentation rules at this stage; the basic rules as supplied should work adequately for demonstration purposes, even for a different (source) language, provided its sentence punctuation rules are broadly similar (i.e., don’t use the Japanese segmentation rules if you are translating from Italian).</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Vasee" changedate="20180411T093337Z" creationid="Vasee" creationdate="20180411T092919Z">
+        <seg>V tuto chvíli nemá smysl pravidla segmentace upravovat. Poskytnutá základní pravidla by měla pro účely demonstrace stačit, dokonce i pro jiný (zdrojový) jazyk, pokud je interpunkce podobná (např.: nepoužívejte pravidla segmentace pro japonštinu, pokud překládáte z italštiny).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>It should include at least some formatting, such as title, subheads, font changes.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="ivaparakova" changedate="20180412T094838Z" creationid="Pan Václav" creationdate="20180411T121824Z">
+        <seg>Měl by obsahovat alespoň nějaké formátování, například nadpis, podtitulek, různá písma.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Language &lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Patrik" changedate="20180412T101021Z" creationid="Patrik" creationdate="20180412T101021Z">
+        <seg>Jazyk &lt;br0/&gt;&lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Last updated&lt;f0&gt;: &lt;s1/&gt;March &lt;/f0&gt;2014&lt;br2/&gt;</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="bures" changedate="20180410T200253Z" creationid="Pan Václav" creationdate="20180409T053101Z">
+        <seg>Poslední aktualizace&lt;f0&gt;: &lt;s1/&gt;březen &lt;/f0&gt;2014&lt;br2/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Launch OmegaT and click Project &gt; Open.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="ivaparakova" changedate="20180412T095303Z" creationid="Pan Václav" creationdate="20180411T122521Z">
+        <seg>Spusťte OmegaT a klikněte na Projekt &gt; Otevřít.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Launch OmegaT and create a new project.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Marie" changedate="20180412T100255Z" creationid="Marie" creationdate="20180412T100255Z">
+        <seg>Spusťte program OmegaT a vytvořte nový projekt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Launch Open Office Writer and create a new text document.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Pan Václav" changedate="20180411T121453Z" creationid="Pan Václav" creationdate="20180411T121453Z">
+        <seg>Otevřete Open Office Writer a vytvořte nový textový dokument.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Let’s call it &lt;f0&gt;My Project-2&lt;/f0&gt;.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Patrik" changedate="20180412T100410Z" creationid="Patrik" creationdate="20180412T100410Z">
+        <seg>Nazvěme jej&lt;f0&gt;Můj projekt 2&lt;/f0&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Look at &lt;a0&gt;that&lt;/a0&gt;!</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="ivaparakova" changedate="20180412T100530Z" creationid="ivaparakova" creationdate="20180412T100530Z">
+        <seg>Podívej se na&lt;a0&gt;to&lt;/a0&gt;!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Look at &lt;f0&gt;that&lt;/f0&gt;!</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="ivaparakova" changedate="20180412T100447Z" creationid="ivaparakova" creationdate="20180412T100447Z">
+        <seg>Podívej se na &lt;f0&gt;to&lt;/f0&gt;!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>MODIFICATIONS</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Uživatel" changedate="20180412T094717Z" creationid="Uživatel" creationdate="20180412T094717Z">
+        <seg>ÚPRAVY</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Navigate to &lt;f0&gt;My Project-1 &lt;/f0&gt;(it will have the OmegaT icon beside it).</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="ivaparakova" changedate="20180412T095423Z" creationid="Pan Václav" creationdate="20180411T122559Z">
+        <seg>Přejděte na &lt;f0&gt;Můj projekt-1&lt;/f0&gt;(bude mít vedle sebe ikonu OmegaT).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>OmegaT does allow you to delete tags and to change their order, but only if certain rules are carefully followed.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="ivaparakova" changedate="20180412T101425Z" creationid="ivaparakova" creationdate="20180412T101425Z">
+        <seg>OmegaT umožňuje odstranit tagy a změnit jejich pořadí, ale pouze tehdy, pokud pečlivě dodržuje určitá pravidla.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>OmegaT for</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Vasee" changedate="20180408T052938Z" creationid="Vasee" creationdate="20180408T052938Z">
+        <seg>OmegaT pro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>OmegaT is an “inline” translation memory application, meaning that you see only one copy of the text; segments which have already been translated appear as such, otherwise the untranslated source text is displayed.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="ivaparakova" changedate="20180412T100018Z" creationid="ivaparakova" creationdate="20180412T095934Z">
+        <seg>OmegaT je „inline“ překladová pamětová aplikace, což znamená, že uvidíte pouze jednu kopii textu. Segmenty, které již byly přeloženy si samozřejmě můžete zobrazit, ale jinak se vám zobrazuje nepřeložený zdrojový text.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>One solution to this problem is Codezapper (&lt;a2&gt;http://asap-traduction.com/CodeZapper&lt;/a2&gt;), which can eliminate these, while keeping the tags you actually need; or you can use the Remove Tags feature of OmegaT itself to remove &lt;f3&gt;all&lt;/f3&gt; tags.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="ivaparakova" changedate="20180412T101344Z" creationid="ivaparakova" creationdate="20180412T101035Z">
+        <seg>Jedním z řešení tohoto problému je Codezapper (&lt;a2&gt;http://asap-traduction.com/CodeZapper&lt;/a2&gt;), který eliminuje zbytečné tagy a zachová ty, které skutečně potřebujete. Nebo můžete použít funkci Odstranit tagy v OmegaT, a odebrat tak všechny tagy.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Only by looking at the source text can you ascertain the actual function of the tags in a particular case.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="ivaparakova" changedate="20180412T101316Z" creationid="ivaparakova" creationdate="20180412T100812Z">
+        <seg>Pouze při otevření dokumentu se zdrojovým textem můžete zjistit skutečné funkce tagů v konkrétním případě.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Only in the case of the “active” segment, which is highlighted, are both source text and translation displayed.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="ivaparakova" changedate="20180412T100045Z" creationid="ivaparakova" creationdate="20180412T100045Z">
+        <seg>Pouze v případě „aktivního“ segmentu, který je zvýrazněn, se vám zobrazuje zdrojový text i překlad.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Otherwise, you may risk corrupting your final document and preventing it from being opened.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="ivaparakova" changedate="20180412T101441Z" creationid="ivaparakova" creationdate="20180412T101441Z">
+        <seg>V opačném případě riskujete, že si poškodíte konečný dokument a nepůjde otevřít.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Owing to the pace at which OmegaT is being developed, the appearance of the screenshots and possibly some other information may have changed slightly.) &lt;/f1&gt;</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="ivaparakova" changedate="20180412T095751Z" creationid="ivaparakova" creationdate="20180412T095732Z">
+        <seg>Vzhledem k rychlosti, jakou je OmegaT vyvíjen se může vzhled screenshotu lišit a některé další vlastnosti mohou být jiné.) &lt;/f1&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Permission is granted to copy, distribute and/or modify this document under the terms of the GNU Free Documentation License, Version 1.2 or any later version published by the Free Software Foundation; with no Invariant Sections, no Front-Cover Texts, and no Back-Cover Texts.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="bures" changedate="20180410T195702Z" creationid="Vasee" creationdate="20180409T051007Z">
+        <seg>Tento dokument můžete kopírovat, šířit nebo upravovat na základě ustanovení GNU Free Documentation License, verze 1.2 nebo jakékoliv později vydané nadací Free Software Foundation. TODO</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Preamble</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Uživatel" changedate="20180412T094622Z" creationid="Uživatel" creationdate="20180412T094622Z">
+        <seg>Předmluva</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Project 1: A simple MS Word file</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Turih" changedate="20180411T065636Z" creationid="Turih" creationdate="20180411T065636Z">
+        <seg>Projekt 1: Jednoduchý dokument MS Word</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Project 2: An HTML document</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="SweneyOmegaTpatched" changedate="20180410T111541Z" creationid="SweneyOmegaTpatched" creationdate="20180410T111541Z">
+        <seg>Projekt 2: HTML dokument</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>References to OmegaT’s more advanced or obscure functions have deliberately been omitted or kept to a minimum, since a description of them would almost certainly lead to you, as a new user, being unable to see the forest for the trees.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Pan Václav" changedate="20180411T121236Z" creationid="Pan Václav" creationdate="20180411T121236Z">
+        <seg>Odkazy na pokročilejší nebo skryté funkce nástroje byly úmyslně vynechány nebo zmíněny pouze krátce, protože jejich popis by vás, jako nové uživatele, mohl jednoduše zmást a pro stromy byste neviděli les.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Refers to OmegaT version: 3.0.8_2</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="bures" changedate="20180410T200328Z" creationid="Vasee" creationdate="20180409T053211Z">
+        <seg>Týká se OmegaT verze 3.0.8_2</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Schau dir &lt;a0&gt;das&lt;/a0&gt; an!</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="ivaparakova" changedate="20180412T100627Z" creationid="ivaparakova" creationdate="20180412T100627Z">
+        <seg>Look at &lt;a0&gt;that&lt;/a0&gt;!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Schau dir &lt;f0&gt;das&lt;/f0&gt; an!</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="ivaparakova" changedate="20180412T100701Z" creationid="ivaparakova" creationdate="20180412T100701Z">
+        <seg>Look at &lt;f0&gt;that&lt;/f0&gt;!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Screenshots from OmegaT versions: 1.6.0, 3.0.8_2&lt;bk0/&gt; &lt;br1/&gt;</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="bures" changedate="20180410T200428Z" creationid="bures" creationdate="20180409T103008Z">
+        <seg>Snímky obrazovky pochází z OmegaT verzí 1.6.0 a 3.0.8_2&lt;bk0/&gt; &lt;br1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>See &lt;f2&gt;6.B.1-6.B.4&lt;/f2&gt;, below.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Vasee" changedate="20180411T095259Z" creationid="Vasee" creationdate="20180411T095259Z">
+        <seg>Podívejte se na &lt;f2&gt;6.B.1-6.B.4&lt;/f2&gt; níže.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>See User‘s Manual when you are ready for the fine points.)File &gt; Save As, name the file, and close it in .odt format.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="ivaparakova" changedate="20180412T095153Z" creationid="Pan Václav" creationdate="20180411T122302Z">
+        <seg>Pro více detailů se podívejte do uživatelské příručky.) Soubor &gt; Uložit jako, zadejte název souboru a uložte jej ve formátu .odt.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>See the User’s Manual (F1).</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="ivaparakova" changedate="20180412T101208Z" creationid="ivaparakova" creationdate="20180412T101208Z">
+        <seg>Viz uživatelská příručka (F1).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Set it up just as you did with &lt;f1&gt;My Project-1&lt;/f1&gt;.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Marie" changedate="20180412T100416Z" creationid="Marie" creationdate="20180412T100416Z">
+        <seg>Nastavte jej tak jako jste nastavili &lt;f1&gt;Můj Projekt-1&lt;/f1&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Source</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Patrik" changedate="20180412T101136Z" creationid="Patrik" creationdate="20180412T101136Z">
+        <seg>Zdroj</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Subject</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Patrik" changedate="20180412T101106Z" creationid="Patrik" creationdate="20180412T101106Z">
+        <seg>Subjekt</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>TERMINATION</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Štefan" changedate="20180412T094852Z" creationid="Štefan" creationdate="20180412T094852Z">
+        <seg>UKONČENÍ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>TRANSLATION</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Štefan" changedate="20180412T094843Z" creationid="Štefan" creationdate="20180412T094843Z">
+        <seg>PŘEKLAD</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Table of Contents</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Sweney" changedate="20180409T073210Z" creationid="Sweney" creationdate="20180409T073210Z">
+        <seg>Obsah</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The &lt;t0/&gt;second project uses an HTML file or set of files, downloaded from the Internet, and demonstrates OmegaT’s capability to deal with graphics, &lt;s1/&gt;complex layout, and complex file structure.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Vasee" changedate="20180411T095135Z" creationid="Vasee" creationdate="20180411T095135Z">
+        <seg>&lt;t0/&gt;Druhý projekt používá HTML soubor nebo sadu souborů, stažených z internetu, které demonstrují schopnosti nástroje vypořádat se s grafikou, &lt;s1/&gt; komplexním rozvržením stránky a strukturou souboru.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The OmegaT user group</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Turih" changedate="20180411T073040Z" creationid="Turih" creationdate="20180411T073040Z">
+        <seg>Uživatelská skupina aplikace OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The OmegaT user interface</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="bures" changedate="20180410T200956Z" creationid="bures" creationdate="20180410T200956Z">
+        <seg>Uživatelské prostředí OmegaT</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Project Files dialog will display your source document.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="ivaparakova" changedate="20180412T095600Z" creationid="ivaparakova" creationdate="20180412T095600Z">
+        <seg>Dialogové okno vám zobrazí zdrojový dokument.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The Project Files window is displayed, which is empty since your project does not yet contain any files.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Vasee" changedate="20180411T093559Z" creationid="Vasee" creationdate="20180411T093559Z">
+        <seg>Zobrazí se vám okno Soubory projektu, které je prázdné, protože váš projekt neobsahuje žádné soubory.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The basic idea is that the text is presented to you one segment at a time.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="ivaparakova" changedate="20180412T095811Z" creationid="ivaparakova" creationdate="20180412T095811Z">
+        <seg>Základní myšlenkou je, že text překládáte segment po segmentu.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The current Microsoft &lt;f0&gt;&lt;f1&gt;Office file formats (.docx, .xlsx, .pptx) &lt;/f1&gt;&lt;/f0&gt;can generate a large number of unnecessary tags, making translation cumbersome.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="ivaparakova" changedate="20180412T101325Z" creationid="ivaparakova" creationdate="20180412T100940Z">
+        <seg>Současné formáty souborů Microsoft Office (.docx, .xlsx, .pptx) můžou generovat velké množství zbytečných tagů a překlad bude nepřehledný. </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The first, to get you started, uses a simple MS Word file in the source language.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Vasee" changedate="20180411T094741Z" creationid="Vasee" creationdate="20180411T094513Z">
+        <seg>První projekt pro začátek používá jednoduchý MS Word soubor ve zdrojovém jazyce.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The general principle is that you translate the text between tags and leave the tags untouched.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="ivaparakova" changedate="20180412T100410Z" creationid="ivaparakova" creationdate="20180412T100410Z">
+        <seg>Základním pravidlem je překládat text mezi tagy a nijak je neměnit.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The glossary function</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Turih" changedate="20180411T072917Z" creationid="Turih" creationdate="20180411T072433Z">
+        <seg>Funkce „Glosář“</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The procedures described in Project 1, Steps &lt;f2&gt;6.A.1-6.A.4,&lt;/f2&gt; all apply here too, for HTML files.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Marie" changedate="20180412T100546Z" creationid="Marie" creationdate="20180412T100546Z">
+        <seg>Postupy popsané v Projektu 1, kroky &lt;f2&gt;6.A.1-6.A.4,&lt;/f2&gt; platí i zde pro soubory HTML.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The table provides a summary of web pages available, for which our tutorial’s “legacy” files have been constructed:</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Patrik" changedate="20180412T100945Z" creationid="Patrik" creationdate="20180412T100945Z">
+        <seg>Tabulka poskytuje přehled webových stránek, pro které jsou určeny naše "legacy" soubory:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The text search (find) function</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Turih" changedate="20180411T072912Z" creationid="Turih" creationdate="20180411T072815Z">
+        <seg>Funkce „Hledat v textu“</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The translated documents are automatically generated in their original format in the &lt;f0&gt;/target &lt;/f0&gt;folder.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Marie" changedate="20180412T095615Z" creationid="Marie" creationdate="20180412T095321Z">
+        <seg>Přeložené dokumenty jsou automaticky vygenerovány v jejich původním formátu ve složce &lt;f0&gt;/target &lt;/f0&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Then use File &gt; Open to Choose open any short MS Word document (.docx format) document in the source language.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Pan Václav" changedate="20180411T121729Z" creationid="Pan Václav" creationdate="20180411T121729Z">
+        <seg>Pro otevření jakéhokoli MS Word dokumentu (ve formátu .docx) použijte Soubor &gt; Otevřít.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>There you will learn how translation memories, glossaries, and the search function work.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Vasee" changedate="20180411T095204Z" creationid="Vasee" creationdate="20180411T095204Z">
+        <seg>V tom to projektu se naučíte, jak funguje překladatelská paměť, glosáš a funkce vyhledávání.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>These capabilities can be used regardless of the file type (.docx, .xlsx, .odt, .txt, .html, etc.).</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Vasee" changedate="20180411T095246Z" creationid="Vasee" creationdate="20180411T095246Z">
+        <seg>Tyto schopnosti nástroje OmegaT můžete používat nehledě na typ souboru (.docx, .xlsx, .odt, .txt, .html, etc.).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>They are all empty.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Vasee" changedate="20180411T093912Z" creationid="Vasee" creationdate="20180411T093912Z">
+        <seg>Všechny jsou prázdné.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This does not demonstrate OmegaT’s full capabilities, but is intended to help the “newbie” grasp the most essential procedures.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Vasee" changedate="20180411T094609Z" creationid="Vasee" creationdate="20180411T094609Z">
+        <seg>Toto cvičení není ukázkou kompletních schopností programu OmegaT, ale slouží k tomu, aby "nováčci" pochopili základní procedury.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>This is convenient with heavily tagged (formatted) text, since it is easier to retain the tags undamaged by simply replacing the text between them.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="ivaparakova" changedate="20180412T100146Z" creationid="ivaparakova" creationdate="20180412T100146Z">
+        <seg>To je užitečné, pokud máte hodně naformátovaný text. Je snazší zachovat značky a jednoduše nahradit text mezi nimi.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Translating</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Turih" changedate="20180411T065546Z" creationid="Turih" creationdate="20180411T065546Z">
+        <seg>Překládání</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Translation memory (fuzzy match function)</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Turih" changedate="20180412T093916Z" creationid="Turih" creationdate="20180411T072325Z">
+        <seg>Překladová paměť (funkce „Přibližné překlady“)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Until you are familiar with tag handling, it is best to retain all the tags and to keep them in the same order if at all possible.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="ivaparakova" changedate="20180412T101359Z" creationid="ivaparakova" creationdate="20180412T101235Z">
+        <seg>Dokud opravdu neumíte s tagy pracovat, je-li to možné, zachovejte je všechny a nejlépe ve stejném pořadí.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>VERBATIM COPYING</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Uživatel" changedate="20180412T094659Z" creationid="Uživatel" creationdate="20180412T094659Z">
+        <seg>KOPÍROVÁNÍ SLOVO OD SLOVA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Validating tags, creating target documents</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Turih" changedate="20180411T070332Z" creationid="Turih" creationdate="20180411T070332Z">
+        <seg>Ověřování tagů, vytváření cílových dokumentů</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>We ignore these in Project 1 only for training purposes.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Vasee" changedate="20180411T095321Z" creationid="Vasee" creationdate="20180411T095321Z">
+        <seg>Pro účely cvičení budeme tyto funkce v Projektu 1 ignorovat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>We provide here two projects for self-training.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Vasee" changedate="20180411T094447Z" creationid="Vasee" creationdate="20180411T094447Z">
+        <seg>Pro účely procvičení zde máme dva projekty.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>What is a CAT tool and why are they useful?</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="bures" changedate="20180410T200916Z" creationid="SweneyDGTOmegaT" creationdate="20180409T141302Z">
+        <seg>Co to jsou CAT nástroje a jak mi mohou pomoct?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>With less heavily tagged text, you can delete the content of the target text field and simply type in the translation, or you can instruct OmegaT to leave it blank by default (refer to the User’s Manual for details).</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="ivaparakova" changedate="20180412T100223Z" creationid="ivaparakova" creationdate="20180412T100223Z">
+        <seg>U méně naformátovaného textu můžete odstranit celý obsah cílového textového pole a jednoduše napsat váš překlad, nebo si můžete ve výchozím nastavení programu OmegaT nastavit, aby nechával toto pole volné (podrobnosti naleznete v uživatelské příručce).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You are now ready to deliver the job.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Marie" changedate="20180412T100111Z" creationid="Marie" creationdate="20180412T100031Z">
+        <seg>Teď jste připraveni dodat svou práci.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You type your translation into the field provided, confirm by hitting Enter, and so on.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="ivaparakova" changedate="20180412T095856Z" creationid="ivaparakova" creationdate="20180412T095856Z">
+        <seg>Napište váš překlad do příslušného pole, potvrďte stisknutím klávesy Enter a tak pokračujte dále.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>You will put your document to be translated into the &lt;f6&gt;/source&lt;/f6&gt; folder; the &lt;f7&gt;/target&lt;/f7&gt; folder will be filled with your translated text; the &lt;f8&gt;/omegat&lt;/f8&gt; &lt;s9/&gt;folder need not concern you now; the &lt;f10&gt;/tm&lt;/f10&gt; and &lt;f11&gt;/glossary&lt;/f11&gt; files will remain empty unless and until you create a .tmx file and a glossary and put them into those respective folders; the &lt;f12&gt;/dictionary&lt;/f12&gt; folder is where you can put bilingual dictionaries, if you wish, in the appropriate format (see User’s Manual)..</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Vasee" changedate="20180411T094303Z" creationid="Vasee" creationdate="20180411T094303Z">
+        <seg>Dokument, který chcete přeložit vložte do složky &lt;f6&gt;/source&lt;/f6&gt;, do složky &lt;f7&gt;/target&lt;/f7&gt; bude vložen přeložený text, složka &lt;f8&gt;/omegat&lt;/f8&gt; &lt;s9/&gt;vás momentálně nemusí zajímat. Složky &lt;f10&gt;/tm&lt;/f10&gt; a &lt;f11&gt;/glossary&lt;/f11&gt; zůstanou prázdné do té doby, než vytvoříte .tmx soubor a glosář a do těchto složek je nevložíte. Do složky &lt;f12&gt;/dictionary&lt;/f12&gt; můžete vložit své dvojjazyčné slovníky, které musí být ve vhodném formátu (viz. Manuál)..</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Your translation file is now displayed in the Editing pane, and you can begin translating.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="ivaparakova" changedate="20180412T095633Z" creationid="ivaparakova" creationdate="20180412T095633Z">
+        <seg>Překladový soubor je nyní zobrazen v podokně Úpravy a můžete začít překládat.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>and be translated like this in OmegaT into German:</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="ivaparakova" changedate="20180412T100542Z" creationid="ivaparakova" creationdate="20180412T100542Z">
+        <seg>a do angličtiny přeložíte v OmegaT:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>biocoenosis</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Patrik" changedate="20180412T101343Z" creationid="Patrik" creationdate="20180412T101343Z">
+        <seg>Společenstvo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>by Susan Welsh &amp; Marc Prior</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="bures" changedate="20180410T183222Z" creationid="Vasee" creationdate="20180408T052952Z">
+        <seg>od Susan Welshové a Marca Priora</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>combination</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Patrik" changedate="20180412T101050Z" creationid="Patrik" creationdate="20180412T101050Z">
+        <seg>kombinace</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>construction</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="R2D2" changedate="20180411T114927Z" creationid="R2D2" creationdate="20180411T114927Z">
+        <seg>stavebnictví</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>dorset</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="R2D2" changedate="20180411T114705Z" creationid="R2D2" creationdate="20180411T114705Z">
+        <seg>Dorset</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>en.wikipedia.org/wiki/Durdle_Door</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="R2D2" changedate="20180411T193506Z" creationid="R2D2" creationdate="20180411T193506Z">
+        <seg>en.wikipedia.org/wiki/Durdle_Door</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>en.wikipedia.org/wiki/Great_Western_Hotel,_London&lt;br1/&gt;</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="R2D2" changedate="20180411T193514Z" creationid="R2D2" creationdate="20180411T193514Z">
+        <seg>en.wikipedia.org/wiki/Great_Western_Hotel,_London&lt;br1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>en.wikipedia.org/wiki/Hilton_Hotels&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="R2D2" changedate="20180411T193513Z" creationid="R2D2" creationdate="20180411T193513Z">
+        <seg>en.wikipedia.org/wiki/Hilton_Hotels&lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>en.wikipedia.org/wiki/Hippocrates</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="R2D2" changedate="20180411T193509Z" creationid="R2D2" creationdate="20180411T193509Z">
+        <seg>en.wikipedia.org/wiki/Hippocrates</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>en.wikipedia.org/wiki/Individual_medley&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="R2D2" changedate="20180411T193459Z" creationid="R2D2" creationdate="20180411T193459Z">
+        <seg>en.wikipedia.org/wiki/Individual_medley&lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>en.wikipedia.org/wiki/Jnana_yoga</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="R2D2" changedate="20180411T193537Z" creationid="R2D2" creationdate="20180411T193537Z">
+        <seg>en.wikipedia.org/wiki/Jnana_yoga</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>en.wikipedia.org/wiki/Jurassic_Coast&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="R2D2" changedate="20180411T193504Z" creationid="R2D2" creationdate="20180411T193504Z">
+        <seg>en.wikipedia.org/wiki/Jurassic_Coast&lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>en.wikipedia.org/wiki/Karma_yoga&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="R2D2" changedate="20180411T193536Z" creationid="R2D2" creationdate="20180411T193536Z">
+        <seg>en.wikipedia.org/wiki/Karma_yoga&lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>en.wikipedia.org/wiki/Old_Harry_Rocks&lt;br1/&gt;</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="R2D2" changedate="20180411T193505Z" creationid="R2D2" creationdate="20180411T193505Z">
+        <seg>en.wikipedia.org/wiki/Old_Harry_Rocks&lt;br1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>en.wikipedia.org/wiki/Panelling</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="R2D2" changedate="20180411T193520Z" creationid="R2D2" creationdate="20180411T193520Z">
+        <seg>en.wikipedia.org/wiki/Panelling</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>en.wikipedia.org/wiki/Phytosociology</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="R2D2" changedate="20180411T193446Z" creationid="R2D2" creationdate="20180411T193446Z">
+        <seg>en.wikipedia.org/wiki/Phytosociology</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>en.wikipedia.org/wiki/Russian&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="R2D2" changedate="20180411T193453Z" creationid="R2D2" creationdate="20180411T193453Z">
+        <seg>en.wikipedia.org/wiki/Russian&lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>en.wikipedia.org/wiki/Russian_American&lt;br1/&gt;</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="R2D2" changedate="20180411T193455Z" creationid="R2D2" creationdate="20180411T193455Z">
+        <seg>en.wikipedia.org/wiki/Russian_American&lt;br1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>en.wikipedia.org/wiki/Russian_Canadian&lt;br2/&gt;</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="R2D2" changedate="20180411T193456Z" creationid="R2D2" creationdate="20180411T193456Z">
+        <seg>en.wikipedia.org/wiki/Russian_Canadian&lt;br2/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>en.wikipedia.org/wiki/Russky_Island</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="R2D2" changedate="20180411T193457Z" creationid="R2D2" creationdate="20180411T193457Z">
+        <seg>en.wikipedia.org/wiki/Russky_Island</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>en.wikipedia.org/wiki/Share_%28finance%29&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="R2D2" changedate="20180411T193449Z" creationid="R2D2" creationdate="20180411T193449Z">
+        <seg>en.wikipedia.org/wiki/Share_%28finance%29&lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>en.wikipedia.org/wiki/Shareholder</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="R2D2" changedate="20180411T193451Z" creationid="R2D2" creationdate="20180411T193451Z">
+        <seg>en.wikipedia.org/wiki/Shareholder</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>en.wikipedia.org/wiki/The_London_Hilton_on_Park_Lane</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="R2D2" changedate="20180411T193517Z" creationid="R2D2" creationdate="20180411T193517Z">
+        <seg>en.wikipedia.org/wiki/The_London_Hilton_on_Park_Lane</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>en.wikipedia.org/wiki/Waldorf_Hilton&lt;br2/&gt;</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="R2D2" changedate="20180411T193516Z" creationid="R2D2" creationdate="20180411T193516Z">
+        <seg>en.wikipedia.org/wiki/Waldorf_Hilton&lt;br2/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>en.wikipedia.org/wiki/Wall&lt;br0/&gt;</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="R2D2" changedate="20180411T193519Z" creationid="R2D2" creationdate="20180411T193519Z">
+        <seg>en.wikipedia.org/wiki/Wall&lt;br0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>en.wikipedia.org/wiki/World_records_in_swimming</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="R2D2" changedate="20180411T193501Z" creationid="R2D2" creationdate="20180411T193501Z">
+        <seg>en.wikipedia.org/wiki/World_records_in_swimming</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>folders</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="Vasee" changedate="20180411T094428Z" creationid="Vasee" creationdate="20180411T094428Z">
+        <seg>folders</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>medicine</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="R2D2" changedate="20180411T114747Z" creationid="R2D2" creationdate="20180411T114747Z">
+        <seg>lékařství</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>might appear like this in OmegaT:</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="ivaparakova" changedate="20180412T100500Z" creationid="ivaparakova" creationdate="20180412T100500Z">
+        <seg>může vypadat v OmegaT takto:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>russian-miscellaneous</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="R2D2" changedate="20180411T114213Z" creationid="R2D2" creationdate="20180411T114213Z">
+        <seg>ruština - různé</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>stocks</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="R2D2" changedate="20180411T114016Z" creationid="R2D2" creationdate="20180411T114016Z">
+        <seg>akcie</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>swimming</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="R2D2" changedate="20180411T114440Z" creationid="R2D2" creationdate="20180411T114440Z">
+        <seg>plavání</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>which then appears like this in the final text:</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="ivaparakova" changedate="20180412T100643Z" creationid="ivaparakova" creationdate="20180412T100643Z">
+        <seg>což se v cílovém textu zobrazí:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>yoga</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="R2D2" changedate="20180411T115005Z" creationid="R2D2" creationdate="20180411T115005Z">
+        <seg>jóga</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>“&lt;a0&gt;“ and “&lt;/a0&gt;“ do not necessarily indicate the beginning and end of bold text, however; if the word “that” were in italics in the source text rather than bold, the tags would be the same.</seg>
+      </tuv>
+      <tuv lang="cs-CZ" changeid="ivaparakova" changedate="20180412T101307Z" creationid="ivaparakova" creationdate="20180412T100757Z">
+        <seg>„&lt;a0&gt;“ a „&lt;/a0&gt;“ nemusí ovšem vždy znamenat začátek a konec tučného textu. Kdyby slovo „to“ bylo ve zdrojovém textu kurzívou, nikoli tučné, byly by použity stejné tagy.</seg>
+      </tuv>
+    </tu>
+<!-- Alternative translations -->
+  </body>
+</tmx>
